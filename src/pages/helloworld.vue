@@ -14,9 +14,9 @@
 </template>
 
 <script>
-import iForm from "./form/form";
-import iFormItem from "./form/form-item";
-import iInput from "./input/input";
+import iForm from "@/components/form/form";
+import iFormItem from "@/components/form/form-item";
+import iInput from "@/components/input/input";
 
 export default {
   name: "HelloWorld",
